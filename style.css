@@ -305,7 +305,7 @@ nav ul li a:hover::before {
     height: auto;
     width: 100%;
     box-sizing: border-box;
-    filter: drop-shadow(5px 10px 15px grey);
+    filter: drop-shadow(2px 3px 10px grey);
 }
 .product-card h1 {
     font-weight: 900;
