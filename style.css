@@ -189,7 +189,7 @@ nav ul li a:hover::before {
     padding: 20px;
     padding-bottom: 0;
     height: auto;
-    filter: drop-shadow(5px 10px 50px grey);
+    filter: drop-shadow(5px 10px 50px rgb(80, 80, 80));
 }
 .rose {
     max-width: 400px;
@@ -379,6 +379,7 @@ nav ul li a:hover::before {
     width: 100%;
     overflow-x: auto;
     padding-left: 50px;
+    padding-bottom: 20px;
     scroll-padding-left: 50px;
 }
 .occasion::-webkit-scrollbar {
@@ -601,7 +602,7 @@ form button {
     align-items: center;
 }
 #footer div .follow img {
-    width: 50px;
+    width: 35px;
     cursor: pointer;
     filter: drop-shadow(1px 2px 2px rgb(0, 0, 0));
 }
